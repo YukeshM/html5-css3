@@ -1,0 +1,30 @@
+/* 
+line height
+letter spacing
+word spacing
+text transform
+text decoration
+*/
+a{
+    font-size: 45px;
+    text-decoration: solid;
+}
+body{
+    text-transform: lowercase;
+}
+h1{
+    text-transform: uppercase;
+    text-decoration: line-through;
+}
+.one{
+    line-height: 2.5em;
+    text-decoration: underline;
+}
+.two{
+    letter-spacing: 5px;
+    text-decoration: overline;
+}
+.three{
+    word-spacing: 20px;
+    text-decoration: dotted;
+}

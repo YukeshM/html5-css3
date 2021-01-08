@@ -1,0 +1,21 @@
+/* 
+vh - height - percent of the screen
+vw - width - percent of  the screen
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.relative{
+    width: 50vw;
+    height: 50vh;
+    background-color: blue;
+}
+.absolute{
+    width: 100vw;
+    height: 100vh;
+    background-color: red;
+}
